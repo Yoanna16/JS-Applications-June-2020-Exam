@@ -24,7 +24,7 @@ In the "JS Applications" course you will learn what HTTP requests are and how to
 
 ## Certificate
 
- 
+ ![alt text](https://github.com/[Yoanna16]/[JS-Applications-June-2020-Exam]/blob/[master]/image.jpg?raw=true)
  
 ## Links
 •	SoftUni https://softuni.bg
